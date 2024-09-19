@@ -1,0 +1,91 @@
+@charset "utf-8";
+link {
+	font-family: "Gill Sans MT";
+	text-decoration: underline;
+	color: #CCC;
+}
+/* CSS Document */
+
+link {
+	font-family: "Gill Sans MT";
+	color: #CCC;
+	text-decoration: underline;
+}
+.linka {
+	font-family: "Gill Sans MT";
+	font-weight: bold;
+	color: #ccc;
+	text-decoration: underline;
+}
+.subtletext {
+	font-family: "Gill Sans MT";
+	color: #CCC;
+	font-weight: bold;
+	color: #575757;
+}
+.Subtitle {
+	font-family: "Gill Sans MT";
+	color: #CCC;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+Artiststatement {
+	font-family: "Gill Sans MT";
+	text-align: left;
+	color: #CCC;
+}
+artstate {
+	font-family: "Gill Sans MT";
+	text-align: left;
+	color: #CCC;
+}
+.artstate {
+	font-family: "Gill Sans MT";
+	font-size: 16px;
+	font-weight: normal;
+	color: #CCC;
+}
+
+.artstate {
+	font-family: "Gill Sans MT";
+	text-align: left;
+}
+.hidden {
+	font-family: "Gill Sans MT";
+	font-size: 9px;
+	color: #333;
+}
+.artstate {
+	font-family: "Gill Sans MT";
+	text-align: justify;
+}
+.artstate {
+	font-family: "Gill Sans MT";
+	text-align: justify;
+}
+.artstatelink {
+	font-family: "Gill Sans MT";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #9cf;
+	text-decoration: underline;
+}
+.fadein { position:relative; width:268px; height:261px; }
+.fadein img {
+	position:absolute;
+	text-align:center; 
+	margin: 0 auto;
+	background-position: top center;
+	
+	
+}
+.footer {
+	font-family: "Gill Sans MT";
+	font-weight: bold;
+	color: #CCC;
+	text-decoration: none;
+	font-size: small;
+}
